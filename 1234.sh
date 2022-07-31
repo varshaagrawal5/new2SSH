@@ -1,4 +1,4 @@
-   #! /bin/sh
+  #! /bin/sh
 
    echo "i am learning devops, devops is fun, linux is OS which is light, linux is linux" > testing.txt
 
@@ -17,4 +17,4 @@
             fi
      done
 
-     echo "maximum times occured word: $maxword at $maxcount times"                
+     echo "maximum times occured word: $maxword at $maxcount times"    
