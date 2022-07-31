@@ -1,5 +1,6 @@
 #! /bin/sh
 
+echo "test file inside branch7 for conflict"
 echo " I am learning devops. devops is fun, Linux is OS which is light, linux is light"> testing.txt
 
 maxcount = 0
