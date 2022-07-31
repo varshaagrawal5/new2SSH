@@ -1,1 +1,0 @@
-echo "trying out merge conflict: feature/merge1 branch"
