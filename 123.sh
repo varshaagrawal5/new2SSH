@@ -1,3 +1,3 @@
 #! /bin/sh
 
-echo " this is a sample file"
+echo " this is a conflict file:branch 10 "
